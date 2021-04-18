@@ -17,8 +17,8 @@ pip install -r requirements.txt
 
 _Second_ navigate to the `frontend` directory and install all needed dependencies by running
 
-```
-npm i\
+```git a
+npm i
 npm run build
 
 ```
